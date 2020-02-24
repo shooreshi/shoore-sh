@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "5rvhOpAy2uzS2gjR",
+    "JWT_KEY": "shooresh_super_secret_web_token_Key"
+  }
+}
